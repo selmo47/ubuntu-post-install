@@ -13,3 +13,6 @@ alias df='df -h'
 
 # ignore common typos
 alias naon='nano'
+
+#ping google dns server
+alias p8="ping 8.8.8.8"

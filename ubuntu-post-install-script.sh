@@ -101,6 +101,7 @@ function main {
 	if [ $EXITSTATUS = 0 ]; then
 		$MAIN
 	else
+		#quit
 		quit
 	fi
 }
